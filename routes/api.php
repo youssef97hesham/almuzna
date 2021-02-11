@@ -20,7 +20,7 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('GetallProduct', function () {
-    dd('nvnbv');
+    dd('test');
 });
 
 
